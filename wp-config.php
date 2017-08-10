@@ -78,6 +78,8 @@ $table_prefix  = 'wp_';
  */
 define('WP_DEBUG', false);
 
+define('FS_METHOD', "direct");
+
 /**
  * zh_CN本地化设置：启用ICP备案号显示
  *
