@@ -42,14 +42,14 @@
 				<footer id="colophon" class="site-footer" role="contentinfo">
 					<div class="site-info">
 						<?php printf(__('<a href="%s">%s</a> by <a href="%s">%s</a>', 'expositio'),
-							'http://wpshower.com/themes/expositio',
-							'Expositio',
-							'http://wpshower.com/',
-							'Wpshower'
+							'http://www.guoguoqiu.com',
+							'guoguoqiu',
+							'http://guoguoqiu.com/',
+							'Qiu'
 						);
 						?>
 					</div><!-- .site-info -->
-					<div class="copyright">&#169; 2014</div>
+					<div class="copyright">&#169; 2017</div>
 				</footer><!-- #colophon -->
 			</header><!-- #masthead -->
 			<div id="header-helper"></div>
