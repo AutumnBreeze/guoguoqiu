@@ -78,6 +78,9 @@ $table_prefix  = 'wp_';
  */
 define('WP_DEBUG', false);
 
+define("FS_METHOD", "direct");
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777);
 
 /**
  * zh_CN本地化设置：启用ICP备案号显示
