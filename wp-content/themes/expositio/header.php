@@ -73,6 +73,7 @@
 						?>
 					</div><!-- .site-info -->
 					<div class="copyright">&#169; 2017</div>
+                    ICP备案:<a href="http://www.beian.miit.gov.cn/" target="_blank">京ICP备17046169号-1</a>
 				</footer><!-- #colophon -->
 			</header><!-- #masthead -->
 			<div id="header-helper"></div>
